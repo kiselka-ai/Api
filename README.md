@@ -420,16 +420,12 @@ MIT License — используйте свободно!
 
 ---
 
-## 👤 Автор
-
-**Alisa** — Full-stack разработчик
-
 ---
 
 ## 💖 Благодарности
 
 - [FastAPI](https://fastapi.tiangolo.com/) — за отличный фреймворк
-- [Kiselka](https://github.com/yourusername/kiselka) — AI-аватар
+- [Kiselka](https://github.com/yourusername/kiselka-ai) — AI-аватар
 - Всем кто поддерживает проект!
 
 ---

@@ -425,7 +425,7 @@ MIT License — используйте свободно!
 ## 💖 Благодарности
 
 - [FastAPI](https://fastapi.tiangolo.com/) — за отличный фреймворк
-- [Kiselka](https://github.com/yourusername/kiselka-ai) — AI-аватар
+- [Kiselka]([https://github.com/yourusername/kiselka-ai](https://github.com/kiselka-ai)) — AI-аватар
 - Всем кто поддерживает проект!
 
 ---
